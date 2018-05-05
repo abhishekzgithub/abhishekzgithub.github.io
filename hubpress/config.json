@@ -2,7 +2,8 @@
   "meta": {
     "username": "abhishekzgithub",
     "repositoryName": "abhishekzgithub.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -22,5 +23,27 @@
       null,
       null
     ]
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "emailabhishek2@gmail.com",
+    "github": "abhishekzgithub",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "linkedin.com/emailabhishekkumar",
+    "stackoverflow": ""
   }
 }
